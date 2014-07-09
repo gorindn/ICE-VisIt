@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/p/niceproject/code/!svn/ver/4120/trunk/src/gov.lbnl.visit.swt
+END
+build.properties
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/p/niceproject/code/!svn/ver/3575/trunk/src/gov.lbnl.visit.swt/build.properties
+END
+pom.xml
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/p/niceproject/code/!svn/ver/3975/trunk/src/gov.lbnl.visit.swt/pom.xml
+END
+.project
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/p/niceproject/code/!svn/ver/3575/trunk/src/gov.lbnl.visit.swt/.project
+END
+.classpath
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/p/niceproject/code/!svn/ver/3800/trunk/src/gov.lbnl.visit.swt/.classpath
+END
